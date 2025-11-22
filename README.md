@@ -1,6 +1,6 @@
 <!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://github-readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=2500&pause=1000&color=9F7AEA&center=true&vCenter=true&width=600&lines=Hi,+I'm+Puspita+Singha+👋;CSE+Graduate+|+ML+Enthusiast;Exploring+Anomaly+Detection+%26+Web+Dev" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjI3dG1mNHVvN2FvcWJ1bnkydGx1bjc3NWlpZzFvaWtyOTZzNzFndiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/yYSSBtDgbbRzq/giphy.gif" width="200">
 </p>
 
 
