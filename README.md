@@ -1,6 +1,6 @@
 <!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjI3dG1mNHVvN2FvcWJ1bnkydGx1bjc3NWlpZzFvaWtyOTZzNzFndiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/yYSSBtDgbbRzq/giphy.gif" width="200">
+  <img src="https://media.giphy.com/media/1BdIPVRR7LxKjTnCjK/giphy.gif" width="350">
 </p>
 
 
