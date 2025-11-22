@@ -1,7 +1,7 @@
 <!-- Animated Typing Header -->
 <h1 align="center">Hi, I'm Puspita Singha 👋</h1>
 <p align="center">
-  CSE Graduate · ML Enthusiast · Exploring Anomaly Detection & Web Development
+  CSE Graduate · Exploring Anomaly Detection & Web Development
 </p>
 
 
