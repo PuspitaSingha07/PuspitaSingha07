@@ -1,4 +1,4 @@
-<!-- Animated header -->
+<!-- Animated Typing Header -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=9F7AEA&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Puspita+Singha+👋;CSE+Graduate+%7C+Tech+Learner+%7C+ML+Enthusiast;Exploring+Anomaly+Detection+and+Web+Development" alt="Typing SVG" />
 </p>
@@ -16,105 +16,91 @@
 
 ---
 
-## 🧭 About Me
-
-- 👩‍💻 I enjoy learning, building and experimenting with tech.  
-- 📊 Currently working on a **machine-learning-based anomaly detection thesis**.  
-- 🌱 I’m improving step-by-step in **ML, data handling, and coding skills**.  
-- 🤝 I like teamwork, communication, and organizing activities.  
-- 🎨 I have a creative side — I love making things look neat & aesthetic.
+## 🧭 About Me  
+- 👩‍💻 Passionate about learning, problem-solving, and creativity  
+- 🔬 Currently researching **ML-based anomaly detection**  
+- 🌱 Improving skills in **web dev, ML fundamentals & data handling**  
+- 🤝 Strong in communication, leadership, and teamwork  
+- ✨ I love clean, aesthetic designs and exploring new tech
 
 ---
 
 ## 🧠 Skills & Interests
 
-- 💻 **Tech & Academic**
-  - Basic Web Development  
-  - Machine Learning Fundamentals  
-  - Research & Technical Writing  
-  - Problem Solving & Algorithms  
+### 🔹 Programming Languages  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css" height="60" />
+</p>
 
-- 🎯 **Soft Skills**
-  - Communication & Presentation  
-  - Leadership & Teamwork  
-  - Management & Coordination  
-  - Creativity & Critical Thinking  
+### 🔹 Technical  
+- Web Development (Basic Level)  
+- Machine Learning Basics  
+- Research & Technical Writing  
+- Problem Solving & Logic Building  
+
+### 🔹 Soft Skills  
+- Communication  
+- Leadership  
+- Critical Thinking  
+- Management & Coordination  
+- Creativity  
 
 ---
 
-## 🎓 Education
-
+## 🎓 Education  
 **B.Sc. in Computer Science & Engineering**  
-*Imperial College of Engineering (RU Affiliated)*  
-📅 *2020 – 2025*
+*Imperial College of Engineering (Rajshahi University Affiliated)*  
+📅 2020 – 2025  
 
 ---
 
-## 🔬 Ongoing Research
-
-### 🛰️ Machine-Learning-Based Anomaly Detection (Ongoing)
-
-I’m working on a research project focusing on anomaly detection using machine learning —  
-especially for identifying unusual or suspicious patterns in network data to support **better security and intrusion detection** in connected systems.
+## 🔬 Ongoing Research  
+### 🛰️ Machine-Learning-Based Anomaly Detection  
+Working on detecting unusual or suspicious patterns in network data using ML techniques — helping improve IoT security and intrusion detection systems.
 
 ---
 
-## 📚 Courses
-
+## 📚 Courses  
 - 📘 **Project Management** — Google  
 - 🌐 **Web Development** — Programming Hero  
 
 ---
 
-## 🎭 Volunteering & Activities
-
-- 🎤 **Assistant Secretary — ICE Cultural Club**  
-- 📌 **Assistant Secretary — ICE Central Club**  
-
-These roles helped me grow in **coordination, communication, and leadership**.
+## 🎭 Volunteering  
+- Assistant Secretary — ICE Cultural Club  
+- Assistant Secretary — ICE Central Club  
 
 ---
 
-## 📊 GitHub Stats & Graphs
+# 📊 GitHub Stats  
 
 <div align="center">
 
-<!-- Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=PuspitaSingha07&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats" />
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=PuspitaSingha07&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
 
-<!-- Streak Card -->
-<img src="https://streak-stats.demolab.com?user=PuspitaSingha07&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" />
-
-</div>
-
-<br />
-
-<div align="center">
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PuspitaSingha07&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
+<!-- GitHub Streak -->
+<img src="https://streak-stats.demolab.com?user=PuspitaSingha07&theme=tokyonight&hide_border=true" height="165" />
 
 </div>
 
 ---
 
-## 📈 Activity Graph
-
+## 📈 Activity Graph  
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PuspitaSingha07&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
 
-## 🌐 Connect With Me
-
-- 🌍 **Portfolio:** [puspita portfolio](https://PuspitaSingha07.github.io)  
-- 🔗 **LinkedIn:** [linkedin.com/in/puspita128](https://www.linkedin.com/in/puspita128)  
-- 🐙 **GitHub:** [github.com/PuspitaSingha07](https://github.com/PuspitaSingha07)  
-- ✉️ **Email:** **puspitasingha128c@gmail.com**
+## 🌐 Connect With Me  
+- 🌍 **Portfolio:** https://PuspitaSingha07.github.io  
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/puspita128  
+- 🐙 **GitHub:** https://github.com/PuspitaSingha07  
+- ✉️ **Email:** puspitasimgha128c@gmail.com  
 
 ---
 
 <p align="center">
-  ✨ <i>Always learning. Always improving.</i> ✨
+  ✨ <i>Always learning, always improving.</i> ✨
 </p>
