@@ -1,6 +1,7 @@
 <!-- Animated Typing Header -->
+<h1 align="center">Hi, I'm Puspita Singha 👋</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/1BdIPVRR7LxKjTnCjK/giphy.gif" width="350">
+  CSE Graduate · ML Enthusiast · Exploring Anomaly Detection & Web Development
 </p>
 
 
