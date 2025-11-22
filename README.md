@@ -1,7 +1,8 @@
 <!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/master/demo.gif" width="550" alt="Typing Animation" />
+  <img src="https://github-readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=2500&pause=1000&color=9F7AEA&center=true&vCenter=true&width=600&lines=Hi,+I'm+Puspita+Singha+👋;CSE+Graduate+|+ML+Enthusiast;Exploring+Anomaly+Detection+%26+Web+Dev" alt="Typing SVG" />
 </p>
+
 
 
 ---
